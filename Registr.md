@@ -6,3 +6,5 @@ https://docs.google.com/document/d/183YX7jml2EK3WTY2q7fvqvCZs13ZGDm2/edit?usp=sh
 ![image](https://github.com/Sh1Ze96/Diplom/assets/97594421/dd27bc02-ef84-4945-b109-a9f9973494b3)
 
 
+[РАВ.pdf](https://github.com/Sh1Ze96/Diplom/files/13997063/default.pdf)
+[mpdf.pdf](https://github.com/Sh1Ze96/Diplom/files/13997064/mpdf.pdf)
