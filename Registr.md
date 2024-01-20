@@ -5,5 +5,6 @@ https://docs.google.com/document/d/183YX7jml2EK3WTY2q7fvqvCZs13ZGDm2/edit?usp=sh
 ![image](https://github.com/Sh1Ze96/Diplom/assets/97594421/c3d33514-8627-4be4-8d9b-4208138f101f)
 [РАВ.pdf](https://github.com/Sh1Ze96/Diplom/files/13997161/default.pdf)
 [m2.pdf](https://github.com/Sh1Ze96/Diplom/files/13997162/m2.pdf)
+[2024-01-20, 06-40 StartExam.pdf](https://github.com/Sh1Ze96/Diplom/files/13997180/2024-01-20.06-40.StartExam.pdf)
 
 
