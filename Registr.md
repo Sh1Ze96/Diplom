@@ -3,8 +3,7 @@ https://docs.google.com/document/d/183YX7jml2EK3WTY2q7fvqvCZs13ZGDm2/edit?usp=sh
 ![image](https://github.com/Sh1Ze96/Diplom/assets/97594421/ffd4d289-f711-4ac2-9272-b099d80aebf5)
 ![image](https://github.com/Sh1Ze96/Diplom/assets/97594421/4db8db72-425d-4b90-ac00-f9953eb28c85)
 ![image](https://github.com/Sh1Ze96/Diplom/assets/97594421/c3d33514-8627-4be4-8d9b-4208138f101f)
-![image](https://github.com/Sh1Ze96/Diplom/assets/97594421/dd27bc02-ef84-4945-b109-a9f9973494b3)
+[РАВ.pdf](https://github.com/Sh1Ze96/Diplom/files/13997161/default.pdf)
+[m2.pdf](https://github.com/Sh1Ze96/Diplom/files/13997162/m2.pdf)
 
 
-[РАВ.pdf](https://github.com/Sh1Ze96/Diplom/files/13997063/default.pdf)
-[mpdf.pdf](https://github.com/Sh1Ze96/Diplom/files/13997064/mpdf.pdf)
