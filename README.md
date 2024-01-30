@@ -31,4 +31,5 @@
     *  БД
     *  Нейронная сеть
     *  ![Схема](https://github.com/Sh1Ze96/Diplom/assets/97594421/ff5623c6-8d23-44fc-9568-e605627d8393)
+    https://docs.google.com/document/d/11GA7KY7vz9podWhKuJA23Xm6jJxDiVKdYvPj_NjW-Zk/edit?usp=drive_link
 
