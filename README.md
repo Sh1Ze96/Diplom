@@ -1,5 +1,5 @@
 # Diplom
-https://docs.google.com/document/d/1jNMuDZAfM6_-kmfleAnfXfvGyZzbTpxU/edit?usp=sharing&ouid=106878605407482882377&rtpof=true&sd=true
+[https://docs.google.com/document/d/1jNMuDZAfM6_-kmfleAnfXfvGyZzbTpxU/edit?usp=sharing&ouid=106878605407482882377&rtpof=true&sd=true]
 ![image](https://github.com/Sh1Ze96/Diplom/assets/97594421/8538a4ac-1723-49b5-bb3e-fdd5aa037660)
 <br>План</br>
 <br>1.Тема: ПК</br>
